@@ -36,14 +36,16 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/augustomagno2/augustomagno2/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=Hello%20World&fontSize=50&fontColor=86D927&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=272AD9"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=50&fontColor=86D927&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=augustomagno2.augustomagno2&"  />
 </div>
 
 ###
